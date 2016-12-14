@@ -1,2 +1,2 @@
 # hello-world
-for study purpose 
+This repository is for study purpose
