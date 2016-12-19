@@ -1,0 +1,30 @@
+
+Name - Dijo Paulson
+Company name - Gadgeon Smart Systems
+Designation - Software Engineer
+Department - ICBU
+Field - IOT 
+
+
+
+Project name - IOT Demo
+Familiarised with Xbee module
+XCTU software
+
+
+Project name - Ultra Low Cost Hub
+Customer name - UEI 
+ 
+Worked on Linkit Smart 7688 Hardware developement kit (HDK)
+
+- uses MediaTek’s MT7688AN SOC
+- core MIPS24KEC
+- 580 MHz MIPS CPU.
+- 32MB flash and 128MB DDR2 RAM. 
+
+- used for IoT prototyping.
+- for embedded devices such as wireless routers.
+
+- uses the OpenWrt open-source embedded Linux operating system
+- development in C/C++
+- cross compilation 
